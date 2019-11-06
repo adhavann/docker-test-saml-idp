@@ -7,7 +7,7 @@ $config = array(
     ),
 
     'example-userpass' => array(
-        'exampleauth:Static'
+        'exampleauth:Static',
     ),
 
 );
